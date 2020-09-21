@@ -1,0 +1,114 @@
+html {
+  font-family: Arial, sans-serif;
+}
+body {
+  margin-top: 1vh;
+  margin-left: 0vh;
+  background-color: #3b2308;
+}
+#main-wrapper {
+  border: 1px solid #4a7dc0;
+  border-radius: 2vh;
+  background-color: #092470;
+
+  width: auto;
+  height: auto;
+
+  margin-left: 0.5vh;
+}
+#heather {
+  border: 1px solid #2224af;
+  border-radius: 1vh;
+  background-color: #4a7dc0;
+  width: 60vh;
+  height: 10vh;
+
+  margin: 3vh 3vh;
+  margin-left: 5vh;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+#heather span {
+  color: #05074e;
+  font-size: 6.2vh;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+#addItem {
+  display: inline-block;
+  margin-left: 2em;
+  color: #000;
+  background-color: #289136;
+  border: 1px solid #090b7a;
+  border-radius: 2px;
+  font-size: 2.5em;
+  font-weight: 400;
+}
+ul {
+  margin-top: 1vh;
+  list-style: none;
+  width: auto;
+  padding: 0vh 2.25vh;
+  font-size: 1.2em;
+}
+.edit-items {
+  border: 1px solid #678cbd;
+  border-radius: 2px;
+  background-color: #4a7dc0;
+
+  font-size: 1.25em;
+  font-weight: 400;
+  color: #000;
+
+  display: inline-block;
+  /* vertical-align: top; */
+  margin-top: 0.1vh;
+  margin-right: 55vh;
+  margin-bottom: 0vh;
+  margin-left: 0.75vh;
+}
+p {
+  display: inline-block;
+  white-space: pre-wrap;
+  margin-top: 0.5vh;
+  margin-right: 0.5vh;
+  margin-bottom: 0.5vh;
+  margin-left: 0.5vh;
+}
+.delete-item {
+  border: 1px solid #b44949;
+  border-radius: 2px;
+  background-color: #9e1d1d;
+
+  font-size: 1.25em;
+  font-weight: 400;
+  color: #000;
+
+  display: inline-block;
+  /* vertical-align: baseline; */
+  margin-top: 0.1vh;
+  margin-right: 0vh;
+  margin-bottom: 0vh;
+}
+.items-list {
+  width: auto;
+  height: auto;
+  display: inline-block;
+  color: #090b7a;
+  background-color: #8da7c9;
+  padding-top: 0.75vh;
+  padding-bottom: 0.3vh;
+  font-weight: 400;
+  margin-top: 0.5vh;
+  border-radius: 3px;
+}
+hr {
+  width: 62vh;
+  border: 1px solid #0a0868;
+}
+/* 
+ */
