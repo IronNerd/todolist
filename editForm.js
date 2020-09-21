@@ -53,7 +53,7 @@ function raisePriority() { //item number will change to a lower number (change t
 function storage() { // Save object to storage
   window.localStorage.clear();
   window.localStorage.setItem("tasksList", JSON.stringify(tasksList));
-  window.location.href = "toDoList.html";
+  window.location.href = "index.html";
 }
 
 function saveText() {
