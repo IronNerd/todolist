@@ -74,8 +74,8 @@ body {
 .items-list {
   border-radius: 5px;
   background-color: #8da7c9;
-  margin-left: 0vw;
-  width: 88vw;
+  margin-left: 1vw;
+  width: auto;
   color: #090b7a;
   font-size: 3.2vw;
   font-weight: bold;
