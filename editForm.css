@@ -51,25 +51,6 @@ body {
   font-weight: 400;
   padding: 0.2em;
 }
-/*
-.edit-items {
-  border: 1px solid #678cbd;
-  border-radius: 2px;
-  background-color: #4a7dc0;
-
-  font-size: 1.25em;
-  font-weight: 400;
-  color: #000;
-
-  display: inline-block;
-  // vertical-align: top; //
-  margin-top: 0em;
-  margin-right: 55vh;
-  margin-bottom: 0vw;
-  margin-left: 0.8vh;
-}
-
-*/
 
 .items-list {
   border-radius: 5px;
