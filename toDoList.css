@@ -1,0 +1,122 @@
+html {
+  font-family: Arial, sans-serif;
+}
+body {
+  margin-top: 1vw;
+  width: 100%;
+  height: auto;
+  background-color: #3b2308;
+}
+#main-wrapper {
+  display: block;
+  border: 1px solid #4a7dc0;
+  border-radius: 5px;
+  background-color: #092470;
+
+  width: 100%;
+  height: auto;
+
+  margin: 1vw;
+}
+#heather {
+  border: 1px solid #2224af;
+  border-radius: 5px;
+  background-color: #4a7dc0;
+
+  width: 93vw;
+  height: auto;
+  margin: 4vw auto 4.5vw 1.75vw;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+#heather span {
+  display: inline-block;
+  color: #05074e;
+  font-size: 10vw;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-left: 3vw;
+  margin-right: auto;
+}
+#addItem {
+  display: inline-block;
+  margin: 2vw;
+
+  color: #000;
+  background-color: #289136;
+  border: 1px solid #090b7a;
+  border-radius: 4px;
+  font-size: 7vw;
+  font-weight: bold;
+}
+ul {
+  /* margin-top: 1vw;
+  margin-left: 2vw; */
+  margin: 4vw auto 4.5vw 2vw;
+
+  list-style: none;
+  width: 99vw;
+  padding: 0vh 2.25vw;
+  font-size: 1.2em;
+}
+.edit-items {
+  display: inline-block;
+  border: 1px solid #678cbd;
+  border-radius: 2px;
+  background-color: #4a7dc0;
+
+  font-size: 5.5vw;
+  font-weight: 400;
+  color: #000;
+  padding: 0.75vw 1.5vw;
+  display: inline-block;
+  margin-top: 2vw;
+  margin-bottom: 0vw;
+  margin-left: 2vw;
+  margin-right: 71vw;
+}
+.delete-item {
+  display: inline-block;
+  border: 1px solid #b44949;
+  border-radius: 2px;
+  background-color: #9e1d1d;
+
+  font-size: 5.5vw;
+  font-weight: 400;
+  color: #000;
+  padding: 0.75vw 1.5vw;
+  display: inline-block;
+  margin-top: 2vw;
+  margin-bottom: 0vw;
+  margin-right: 2vw;
+  margin-left: auto;
+}
+p {
+  display: block;
+  white-space: pre-wrap;
+  width: 100%;
+  font-size: 4vw;
+}
+.items-list {
+  width: 89vw;
+  height: auto;
+  display: inline-block;
+  color: #090b7a;
+  background-color: #8da7c9;
+  padding-top: 0.75vw;
+  padding-bottom: 0.3vh;
+  font-weight: 400;
+  margin-top: 0.5vw;
+  margin-right: 2vw;
+  border-radius: 3px;
+}
+hr {
+  width: 62vh;
+  border: 1px solid #0a0868;
+}
+/* 
+ */
